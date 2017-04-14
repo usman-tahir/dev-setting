@@ -1,7 +1,7 @@
 {
 	"autocomplete": true,
 	"bold_folder_labels": true,
-  "theme": "Material-Theme.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"color_scheme": "Packages/User/SublimeLinter/Agila Origin Oceanic Next (SL).tmTheme",
 	"detect_indentation": false,
 	"draw_minimap_border": true,

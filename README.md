@@ -1,4 +1,4 @@
-# packages
+# Packages
 * Emment
 * Git Gutter
 * Material Theme

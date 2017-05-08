@@ -26,3 +26,6 @@ npm start
 Make upload folder inside public folder
 
 ./public/upload
+
+# Git
+.patch to any commit url you will see the raw commit data (including the commiter's email).

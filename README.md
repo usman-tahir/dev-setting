@@ -1,7 +1,10 @@
 # Packages
 * Emment
 * Git Gutter
-* Material Theme
+* Color Highlighter
+* DocBlockr
+* Print to HTML
+* BracketHighlighter
 
 # Color scheme
 * Agila Theme

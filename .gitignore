@@ -51,3 +51,9 @@ jspm_packages
 ## Misc ##
 # Secrets
 githubToken.js
+
+*.swp
+*.swo
+
+## WebStrorm ##
+.idea/*

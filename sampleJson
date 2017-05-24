@@ -1,0 +1,74 @@
+// add to order:
+{
+  "items": {},
+  "totalPrice":0
+},
+
+// valid JSON
+// add to order:
+{
+  "items": {
+    "bichon au citron": {
+      "name": "bichon au citron",
+      "description": "Similar to a turnover in size, shape, and made of puff pastry. A major distinguishing feature is that it is filled with lemon curd. The outer layer of sugar is sometimes partially caramelized.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bichon_au_citron_9.jpg",
+      "price": 158,
+      "quantity": 4,
+      "totalPrice": 632
+    },
+    "chouquette": {
+      "name": "chouquette",
+      "description": "Viennoiserie consisting of a small portion of choux pastry sprinkled with pearl sugar and sometimes filled with custard or mousse. A chouquette can also be dipped in chocolate or covered in chocolate chips.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chouquette_%28cropped%29.jpg",
+      "price": 133,
+      "quantity": 2,
+      "totalPrice": 266
+    },
+    "croissant": {
+      "name": "croissant",
+      "description": "A buttery flaky bread named for its distinctive crescent shape. Croissants are made of a leavened variant of puff pastry. The yeast dough is layered with butter, rolled and folded several times in succession, then rolled into a sheet, a technique called laminating. Croissants have long been a staple of French bakeries and pâtisseries. The Kipferl – ancestor of the croissant – has been documented in Austria going back at least as far as the 13th century, in various shapes. The Kipferl can be made plain or with nut or other fillings (some consider the rugelach a form of Kipferl). The \"birth\" of the croissant itself – that is, its adaptation from the plainer form of Kipferl, before its subsequent evolution (to a puff pastry) – can be dated with some precision to at latest 1839 (some say 1838), when an Austrian artillery officer, August Zang, founded a Viennese Bakery (\"Boulangerie Viennoise\") at 92, rue de Richelieu in Paris. This bakery, which served Viennese specialities including the Kipferl and the Vienna loaf, quickly became popular and inspired French imitators (and the concept, if not the term, viennoiserie, a 20th-century term for supposedly Vienna-style pastries). The French version of the Kipferl was named for its crescent (croissant) shape.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Croissant_photo_detouree_W_%28cropped%29.jpg",
+      "price": 408,
+      "quantity": 1,
+      "totalPrice": 408
+    }
+  },
+  "totalPrice": 1306
+}
+
+
+{
+  "items": [{
+    "name": "canele",
+    "description": "A small pastry with a soft and tender custard center and a dark, thick caramelized crust.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Caneles_stemilion.jpg",
+    "price": 573
+  }, {
+    "name": "canele",
+    "description": "A small pastry with a soft and tender custard center and a dark, thick caramelized crust.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Caneles_stemilion.jpg",
+    "price": 573
+  }, {
+    "name": "canele",
+    "description": "A small pastry with a soft and tender custard center and a dark, thick caramelized crust.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Caneles_stemilion.jpg",
+    "price": 573
+  }, {
+    "name": "chouquette",
+    "description": "Viennoiserie consisting of a small portion of choux pastry sprinkled with pearl sugar and sometimes filled with custard or mousse. A chouquette can also be dipped in chocolate or covered in chocolate chips.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chouquette_%28cropped%29.jpg",
+    "price": 133
+  }, {
+    "name": "chouquette",
+    "description": "Viennoiserie consisting of a small portion of choux pastry sprinkled with pearl sugar and sometimes filled with custard or mousse. A chouquette can also be dipped in chocolate or covered in chocolate chips.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chouquette_%28cropped%29.jpg",
+    "price": 133
+  }, {
+    "name": "chouquette",
+    "description": "Viennoiserie consisting of a small portion of choux pastry sprinkled with pearl sugar and sometimes filled with custard or mousse. A chouquette can also be dipped in chocolate or covered in chocolate chips.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chouquette_%28cropped%29.jpg",
+    "price": 133
+  }],
+  "totalPrice": 2118
+}
+
